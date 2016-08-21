@@ -1,6 +1,5 @@
-name: 'Modern Caveman '
-layout_spectrum: 0.6170165193556597
-typography_spectrum: 0.015618119754836512
+layout_spectrum: 0.2530059413984418
+typography_spectrum: 0.4897663078736514
 color:
   brandColors:
     - '#E6E2AF'
@@ -8,7 +7,8 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
-  brandStrength: 0.4725557678934408
-  lightness: 0.3418433280554466
-  saturation: 0.9548834987371336
-  rhythmicContrast: 0.837485974527538
+  brandStrength: 0.46678694407455623
+  lightness: 0.20728352689184248
+  saturation: 0.3037223417777568
+  rhythmicContrast: 0.9652342118788511
+name: 'Modern Caveman '
